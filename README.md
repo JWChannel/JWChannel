@@ -44,5 +44,4 @@ GuitarPaper, developed by a guitar teacher with over 10 years of teaching experi
 ### Document-Based:
 - After class, the permanently saved screenshot notes can be shared with students who use the same app
 
-
-This app is primarily used as a second screen, suitable for communication software such as Skype, Google Meet, and Zoom, or in conjunction with OBS, providing a higher quality teaching experience.
+This app is optimized as a second screen for your Mac, making it suitable for communication software like Skype, Google Meet, and Zoom, or for use in conjunction with OBS, providing a higher quality teaching experience.
