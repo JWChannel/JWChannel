@@ -11,8 +11,11 @@
  [![App Store Badge](https://img.shields.io/badge/View_on_App_Store-gray?style=flash&logo=Apple&logoColor=white&labelColor=black)](https://apps.apple.com/tw/app/guitarpaper/id6499111031?l=en-GB)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JWChannel/JWChannel/main/Assets/GuitarPaper-Demo-High.gif" />
+  <img src="https://raw.githubusercontent.com/JWChannel/JWChannel/main/Assets/AppWorks-AppDemo-iPad13-1-re-v3.png" width="540" /><br>
+  <img src="https://raw.githubusercontent.com/JWChannel/JWChannel/main/Assets/AppWorks-AppDemo-iPhone55-1.png" width="540" /><br>
+  <img src="https://raw.githubusercontent.com/JWChannel/JWChannel/main/Assets/GuitarPaper-Demo-High.gif" width="540" /><br>
 </div>
+<br>
 
 GuitarPaper, developed by a guitar teacher with over 10 years of teaching experience, is an excellent tool for teaching and learning, specifically designed for guitar instructors and students. It is optimized for both iPhone and iPad devices.
 
