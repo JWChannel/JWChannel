@@ -1,6 +1,7 @@
 # Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"> I'm Jason !
 
 - iOS Developer (UIKit / SwiftUI)
+- "GuitarPaper" Ranked #2 on the App Store Paid App Productivity Tools Chart (June 2024)
 - Certified Public Accountant (CPA) Certification of AICPA (USA) and Taiwan (ROC)
 - Won 9 Guitar Contest Championships in Taiwan
 
