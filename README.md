@@ -22,6 +22,9 @@ GuitarPaper, developed by a guitar teacher with over 10 years of teaching experi
 
 ## FEATURES:
 
+### In-App Purchases
+- Auto-Renewable Subscription
+
 ### Real-Time Adjustments:
 - Key
 - Tuning
