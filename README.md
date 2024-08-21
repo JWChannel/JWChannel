@@ -22,8 +22,8 @@ GuitarPaper, developed by a guitar teacher with over 10 years of teaching experi
 
 ## FEATURES:
 
-### In-App Purchases
-- Auto-Renewable Subscription
+### In-App Purchases (Auto-Renewable Subscription)
+- Subscription Group / Service Level(Weekly Plan & Monthly Plan)
 
 ### Real-Time Adjustments:
 - Key
